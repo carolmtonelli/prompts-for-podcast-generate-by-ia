@@ -77,12 +77,12 @@ Utilizei os prompts acima para criar um podcast de maneira automatizada, conform
       align=left 
       margin=10 
       width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
+      src="https://github.com/carolmtonelli/prompts-for-podcast-generate-by-ia/blob/main/WhatsApp%20Image%202023-11-13%20at%2020.01.01.jpeg"
     />
     <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
     &nbsp&nbsp&nbsp
     <a 
-        href="https://github.com/felipeAguiarCode">
+        href="https://github.com/carolmtonelli">
         GitHub
     </a>
     &nbsp;|&nbsp;
