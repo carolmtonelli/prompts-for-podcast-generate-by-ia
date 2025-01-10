@@ -85,13 +85,7 @@ Utilizei os prompts acima para criar um podcast de maneira automatizada, conform
         href="https://github.com/carolmtonelli">
         GitHub
   
-    &nbsp;|&nbsp;
     
-    &nbsp;|&nbsp;</p>
-</p>
-<br/><br/>
-<p>
-
 ---
 
 ⌨️ com 💜 por [Carolina Martin Tonelli](https://github.com/carolmtonelli)
