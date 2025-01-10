@@ -59,6 +59,7 @@ ChatGPT：
 | :----: | -------------------------------------------------------------------------------------- |
 | conteúdo | Faça um roteiro para podcast, sobre mercado voluntário de carbono no Brasil, incluindo enfoque sobre projetos que capturam carbono da atmosfera e não só evitem ou reduzam emissões, incluindo abordagem sobre a lei 15042 de 11/12/204, sobre as plataformas e ferramentas para operar no mercado, sobre os principais certificadores atuando no Brasil e sobre Net Zero, Neutralidade de Carbono e Carbono Negativo. Utilize o estilo da influenciadora Gabriela Prioli |
 |  título  | Crie um título de impacto para o podcast criado|
+
 Nota: O título é um chamado enérgico que alerta para os impáctos que causamos e a necessidade de ação. Durante o Podcast o ouvinte é empoderado a participar das ações que podem ajudar o planeta.
 
 Leonardo AI：
