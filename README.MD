@@ -4,6 +4,7 @@
     width="300"
 />
 </p>
+<p align="center">
 Do Impacto à Ação
 <p align="center">
 <a href="https://dio.me/">
