@@ -102,4 +102,4 @@ Utilizei os prompts acima para criar um podcast de maneira automatizada, conform
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+⌨️ com 💜 por [Carolina Martin Tonelli](https://github.com/carolmtonelli)
