@@ -48,7 +48,7 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através
 
 - [Imagem de Capa](https://github.com/carolmtonelli/prompts-for-podcast-generate-by-ia/blob/main/Capa%20do%20Podcast.jpg)
 - [Arquivo gerado no ElevenLabs](https://github.com/carolmtonelli/prompts-for-podcast-generate-by-ia/blob/main/ElevenLabs_2025-01-09T11_00_24_Alice_pre_s50_sb75_se25_b_m2.mp3)
-- [Do Impacto à Ação](https://github.com/carolmtonelli/prompts-for-podcast-generate-by-ia/blob/main/PodCast_editado.MP3) PodCast final editado no Capcut
+- [Do Impacto à Ação](https://github.com/carolmtonelli/prompts-for-podcast-generate-by-ia/blob/main/PodCast_editado.MP3) Podcast final editado no Capcut
 
 ## 🧠 Prompts
 
