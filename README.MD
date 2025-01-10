@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/cover.png"
+    src="https://github.com/carolmtonelli/prompts-for-podcast-generate-by-ia/blob/main/Capa%20do%20Podcast.jpg"
     width="300"
 />
 </p>
