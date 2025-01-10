@@ -46,18 +46,30 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## 📚 Materiais
 
-- [Link da live no Youtube](https://www.youtube.com)
-- [Notion Template](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f?pvs=4)
-- [Editor de aúdio](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)
+- [Imagem de Capa](https://github.com/carolmtonelli/prompts-for-podcast-generate-by-ia/blob/main/Capa%20do%20Podcast.jpg)
+- [Arquivo gerado no ElevenLabs](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f?pvs=4)
+- [PodCast editado no Capcut](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)
+
+## 🧠 Prompts
 
 
-## 🛠️ Instruções de execução
+ChatGPT：
 
-Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
+|  Ação  | prompt                                                                                 |
+| :----: | -------------------------------------------------------------------------------------- |
+| conteúdo | Faça um roteiro para podcast, sobre mercado voluntário de carbono no Brasil, incluindo enfoque sobre projetos que capturam carbono da atmosfera e não só evitem ou reduzam emissões, incluindo abordagem sobre a lei 15042 de 11/12/204, sobre as plataformas e ferramentas para operar no mercado, sobre os principais certificadores atuando no Brasil e sobre Net Zero, Neutralidade de Carbono e Carbono Negativo. Utilize o estilo da influenciadora Gabriela Prioli |
+|  título  | Crie um título de impacto para o podcast criado|
 
-- 🤖 1. Use os prompts de roteiro no `chagpt`
-- 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
-- 🤖 3. Use os prompts de artes no `midjourney`
+Leonardo AI：
+
+|  Ação  | prompt                                                                                 |
+| :----: | -------------------------------------------------------------------------------------- |
+| título | reporter IA em uma cidade sustentável e arborizada, Pro color photography, Leonardo Phoenix 0.9, fast, medium |
+
+
+## 🛠️ Execução
+
+Utilizei os prompts acima para criar um podcast de maneira automatizada, conforme orientação do professor.
 
 ## 👨‍💻 Expert
 
